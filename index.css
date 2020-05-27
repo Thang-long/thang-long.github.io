@@ -88,3 +88,8 @@ body {
   ::-webkit-scrollbar-thumb:hover {
     background: #555;
   }
+
+  .container {
+      padding-left: 2em;
+      padding-right: 2em;
+  }
